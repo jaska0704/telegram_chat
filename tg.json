@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "fullName": "Ali Norov",
+      "phone": "998907148998",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "fullName": "Laziz Bozorov",
+      "phone": "998917148998",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "fullName": "Doston Zakonov",
+      "phone": "998927148998",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "fullName": "Vali Noriyev",
+      "phone": "998937148998",
+      "password": "1234",
+      "id": 4
+    }
+  ],
+  "chats": [
+    {
+        "id": 1,
+        "members": [1,2]
+    },
+    {
+        "id": 2,
+        "members": [1,3]
+    },
+    {
+        "id": 3,
+        "members": [1,4]
+    },
+    {
+        "id": 4,
+        "members": [2,3]
+    },
+    {
+        "id": 5,
+        "members": [2,4]
+    },
+    {
+        "id": 6,
+        "members": [3,4]
+    }
+  ]
+}
