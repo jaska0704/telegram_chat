@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"chat.min.css"}
+{"version":3,"sources":["../../pages/chat.scss"],"names":[],"mappings":"AAAA,SACG,oBAAA,CACA,iBAAA,CACA,sBAAA,CACA,eAAA,CACA,oBAAA,CAEA,eACC,iBAAA,CACA,QAAA,CACA,WAAA,CAGD,iBACC,kBAAA,CACA,UAAA,CACA,4BAAA,CACA,cAAA,CAGD,eACC,eAAA,CACA,SAAA,CACA,2BAAA","file":"chat.min.css"}

@@ -1,1 +1,1 @@
-/*# sourceMappingURL=chat.min.css.map */
+.message{display:inline-block;position:relative;padding:.75rem 1.25rem;max-width:28rem;border-radius:.75rem}.message .time{position:absolute;bottom:0;right:.5rem}.message.from-me{background:#007dfa;color:#fff;border-bottom-right-radius:0;place-self:end}.message.to-me{background:#fff;color:167;border-bottom-left-radius:0}/*# sourceMappingURL=chat.min.css.map */

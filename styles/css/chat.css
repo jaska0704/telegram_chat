@@ -1,1 +1,23 @@
-/*# sourceMappingURL=chat.css.map */
+.message {
+  display: inline-block;
+  position: relative;
+  padding: 0.75rem 1.25rem;
+  max-width: 28rem;
+  border-radius: 0.75rem;
+}
+.message .time {
+  position: absolute;
+  bottom: 0;
+  right: 0.5rem;
+}
+.message.from-me {
+  background: rgb(0, 125, 250);
+  color: white;
+  border-bottom-right-radius: 0;
+  place-self: end;
+}
+.message.to-me {
+  background: white;
+  color: 167;
+  border-bottom-left-radius: 0;
+}/*# sourceMappingURL=chat.css.map */

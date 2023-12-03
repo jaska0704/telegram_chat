@@ -1,0 +1,26 @@
+.message {
+   display: inline-block; 
+   position: relative;
+   padding: .75rem 1.25rem;
+   max-width: 28rem;
+   border-radius: .75rem;
+
+   .time {
+    position: absolute;
+    bottom: 0;
+    right: .5rem;
+   }
+
+   &.from-me {
+    background: rgb(0, 125, 250);
+    color:white;
+    border-bottom-right-radius: 0;
+    place-self: end;
+   }
+
+   &.to-me {
+    background: white;
+    color: blue($color: #1273a7);
+    border-bottom-left-radius: 0;
+   }
+}

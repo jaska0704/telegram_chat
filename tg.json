@@ -27,28 +27,25 @@
   ],
   "chats": [
     {
-        "id": 1,
-        "members": [1,2]
-    },
-    {
-        "id": 2,
-        "members": [1,3]
-    },
-    {
-        "id": 3,
-        "members": [1,4]
-    },
-    {
-        "id": 4,
-        "members": [2,3]
-    },
-    {
-        "id": 5,
-        "members": [2,4]
-    },
-    {
-        "id": 6,
-        "members": [3,4]
+      "members": [
+        4,
+        1
+      ],
+      "messages": [
+        {
+          "text": "salom\n",
+          "id": "23d6b201-5090-49b1-b82e-4b52308b862d",
+          "fromId": 4,
+          "date": 1701603618469
+        },
+        {
+          "text": "Voleykum salom\n",
+          "id": "6a7fdc95-3e22-4ccc-b522-8254653e49c0",
+          "fromId": 1,
+          "date": 1701603676662
+        }
+      ],
+      "id": 1
     }
   ]
 }
